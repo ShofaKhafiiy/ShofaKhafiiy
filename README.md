@@ -33,7 +33,7 @@ Berdedikasi untuk menghidupkan ide lewat baris kode dan menciptakan pengalaman d
 ### 🐍 Kontribusi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShofaKhafiiy/ShofaKhafiiy/output/snake.svg" alt="Ular Kontribusi GitHub" />
+  <img src="https://raw.githubusercontent.com/ShofaKhafiiy/ShofaKhafiiy/main/images/snake.svg" alt="Ular Kontribusi GitHub" />
 </p>
 
 ---
