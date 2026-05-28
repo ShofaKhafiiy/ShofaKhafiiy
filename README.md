@@ -7,20 +7,38 @@ Berdedikasi untuk menghidupkan ide lewat baris kode dan menciptakan pengalaman d
 ---
 
 ### 🛠️ Keahlian & Teknologi
-*(Silakan sesuaikan teknologi favorit Anda)*
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js 
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
 - **Backend:** Node.js, Express.js
 - **Tools & database:** Git, GitHub, MySQL / PostgreSQL, VS Code
 
 ---
 
-### 📫 Hubungi Saya & Berkolaborasi
-- 🤝 Terbuka untuk berkolaborasi dalam proyek web atau open-source.
-- ⚡ Selalu antusias untuk belajar hal baru dan bertukar pikiran!
-- 💬 Mari terhubung dan membuat sesuatu yang hebat bersama!
+### 📊 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShofaKhafiiy&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Statistik GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShofaKhafiiy&layout=compact&theme=radical&border_radius=10" alt="Bahasa Teratas" height="170" />
+</p>
 
 ---
 
+### 📈 Grafik Aktivitas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShofaKhafiiy&show_icons=true&theme=radical" alt="Statistik GitHub ShofaKhafiiy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShofaKhafiiy&theme=radical&hide_border=true&area=true&bg_color=0d1117&point=ffffff&line=ff79c6" alt="Grafik Aktivitas GitHub" width="100%" />
 </p>
+
+---
+
+### 🐍 Kontribusi
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShofaKhafiiy/ShofaKhafiiy/output/snake.svg" alt="Ular Kontribusi GitHub" />
+</p>
+
+---
+
+### 📫 Berkolaborasi
+- 🤝 Terbuka untuk berkolaborasi dalam proyek web atau open-source.
+- ⚡ Selalu antusias untuk belajar hal baru dan bertukar pikiran!
+- 💬 Mari terhubung dan membuat sesuatu yang hebat bersama!
