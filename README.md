@@ -8,8 +8,8 @@ Berdedikasi untuk menghidupkan ide lewat baris kode dan menciptakan pengalaman d
 
 ### 🛠️ Keahlian & Teknologi
 *(Silakan sesuaikan teknologi favorit Anda)*
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js / Vue.js
-- **Backend:** Node.js, Express.js / PHP / Python
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js 
+- **Backend:** Node.js, Express.js
 - **Tools & database:** Git, GitHub, MySQL / PostgreSQL, VS Code
 
 ---
