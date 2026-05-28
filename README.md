@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Halo! Saya Shofa Khafidin
 
-<!--
-**ShofaKhafiiy/ShofaKhafiiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Web Developer
 
-Here are some ideas to get you started:
+Berdedikasi untuk menghidupkan ide lewat baris kode dan menciptakan pengalaman digital yang mulus serta nyaman digunakan. Saya suka menulis kode yang bersih, memecahkan tantangan web, dan terus mengeksplorasi ekosistem web modern.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Keahlian & Teknologi
+*(Silakan sesuaikan teknologi favorit Anda)*
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js / Vue.js
+- **Backend:** Node.js, Express.js / PHP / Python
+- **Tools & database:** Git, GitHub, MySQL / PostgreSQL, VS Code
+
+---
+
+### 📫 Hubungi Saya & Berkolaborasi
+- 🤝 Terbuka untuk berkolaborasi dalam proyek web atau open-source.
+- ⚡ Selalu antusias untuk belajar hal baru dan bertukar pikiran!
+- 💬 Mari terhubung dan membuat sesuatu yang hebat bersama!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShofaKhafiiy&show_icons=true&theme=radical" alt="Statistik GitHub ShofaKhafiiy" />
+</p>
