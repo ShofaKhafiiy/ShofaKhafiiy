@@ -9,18 +9,8 @@ Berdedikasi untuk menghidupkan ide lewat baris kode dan menciptakan pengalaman d
 ### 🛠️ Keahlian & Teknologi
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
 - **Backend:** Node.js, Express.js
-- **Tools & database:** Git, GitHub, MySQL / PostgreSQL, VS Code
+- **Tools & database:** Git, GitHub, MySQL / PostgreSQL, VS Code, docker
 
----
-
-### 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShofaKhafiiy&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Statistik GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShofaKhafiiy&layout=compact&theme=radical&border_radius=10" alt="Bahasa Teratas" height="170" />
-</p>
-
----
 
 ### 📈 Grafik Aktivitas
 
